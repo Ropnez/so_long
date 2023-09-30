@@ -19,7 +19,7 @@ So_Long, bir oyuncunun labirentte gezinerek görevleri tamamladığı basit bir 
 Oyunu kendi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Projeyi bilgisayarınıza klonlayın.
-git clone [[https://github.com/sizin-kullanici-adi/so-long.git](https://github.com/ropnez/so_long.git)](https://github.com/Ropnez/so_long.git)
+git clone https://github.com/ropnez/so_long.git
 
 2. Proje dizinine gidin.
 cd so-long
@@ -63,7 +63,7 @@ Getting Started
 To run the game on your local machine, follow these steps:
 
     Clone the project to your computer.
-    git clone [https://github.com/ropnez/so_long.git](https://github.com/Ropnez/so_long.git)
+    git clone https://github.com/ropnez/so_long.git
     
     Navigate to the project directory.
     cd so-long
